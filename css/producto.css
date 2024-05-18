@@ -1,0 +1,13 @@
+div h5 {
+    text-align: center;
+    align-items: center;
+}
+
+.tab-content{
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+    flex-direction: column;
+    align-items: center;
+}
